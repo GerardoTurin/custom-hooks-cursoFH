@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import tareaReducer from "../08-useReducer/tareaReducer";
+import tareaReducer from "./tareaReducer";
 
 
 const initialState = [
